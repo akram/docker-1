@@ -1,6 +1,7 @@
 # PrestaShop on Docker
 
-[![Build Status](https://travis-ci.org/PrestaShop/docker.svg?branch=master)](https://travis-ci.org/PrestaShop/docker)
+![Tests](https://github.com/PrestaShop/docker/workflows/Run%20tests/badge.svg)
+![Codestyle](https://github.com/PrestaShop/docker/workflows/Run%20Flake8/badge.svg)
 
 ## Supported tags
 
@@ -82,7 +83,9 @@ If your IP / port (or domain) change between two executions of your container, y
 
 ## Documentation
 
-The documentation (in English by default) is available at the following addresses: [PrestaShop 1.7](http://doc.prestashop.com/display/PS17)
+The user documentation (in English by default) is available [here](https://doc.prestashop.com/display/PS17).
+
+The developer documentation (English only) can be found [here](https://devdocs.prestashop.com/).
 
 ## Troubleshooting
 
